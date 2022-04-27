@@ -5,4 +5,4 @@
 
 ## Debugging Mode
   * Debugging mode is used to know the stages of how the output video was released.
-  * 
+  * You can enable the debugging mode on running by using '1' argument or disable it by not inserting or inserting '0' as an argument
