@@ -18,10 +18,11 @@
        4. Color Wrap
   
 ## Guide
- 1. Open your terminal and change directory to the folder which contains run.py and camera_cal folder together
- 2. Use the following format to run your file: python run.py --vid "file\path" --img "file\path" --debug 0/1
-     Examples: 1. python run.py --img "C:\Users\Omar\Downloads\Lane_detection\test1.jpg" --debug 0
-               2. python run.py --vid "C:\Users\Omar\Downloads\Lane_detection\project_video.mp4" --debug 1
-               3. python run.py --img "C:\Users\Omar\Downloads\Lane_detection\test1.jpg"--vid "C:\Users\Omar\Downloads\Lane_detection\project_video.mp4" --debug 1
-               4. python run.py #THIS EXAMPLE WILL DO NOTHING
- 3. In case of having an image and a video, the image will be done first and you have to press Q to exit, same goes for the video if you want to close it press Q
+ * Open your terminal and change directory to the folder which contains run.py and camera_cal folder together
+ * Use the following format to run your file: python run.py --vid "file\path" --img "file\path" --debug 0/1
+     Examples: 
+     1. python run.py --img "C:\Users\Omar\Downloads\Lane_detection\test1.jpg" --debug 0
+     2. python run.py --vid "C:\Users\Omar\Downloads\Lane_detection\project_video.mp4" --debug 1
+     3. python run.py --img "C:\Users\Omar\Downloads\Lane_detection\test1.jpg"--vid "C:\Users\Omar\Downloads\Lane_detection\project_video.mp4" --debug 1
+     4. python run.py #THIS EXAMPLE WILL DO NOTHING
+ * In case of having an image and a video, the image will be done first and you have to press Q to exit, same goes for the video if you want to close it press Q
