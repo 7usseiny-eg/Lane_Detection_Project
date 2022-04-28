@@ -19,6 +19,7 @@
   
 ## Guide
  * Open your terminal and change directory to the folder which contains run.py and camera_cal folder together
+ * You can manipulate three arguments: --img [img\file\path] or --vid [vid\file\path] or --debug [0/1]
  * Use the following format to run your file: python run.py --vid "file\path" --img "file\path" --debug 0/1
      Examples: 
      1. python run.py --img "C:\Users\Omar\Downloads\Lane_detection\test1.jpg" --debug 0
